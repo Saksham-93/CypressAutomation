@@ -1,0 +1,7 @@
+{
+  "name": "Bob",
+  "gender" : "Male",
+  "productName" : ["Blackberry","Nokia Edge"],
+  "sucessMessage" : "Success! Thank you! Your order will be delivered in next few weeks"
+  
+}
